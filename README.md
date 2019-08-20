@@ -73,6 +73,8 @@ The expected/assumed behavior of the application is listed below.
 - [X] the closed toggle button is disabled if the gate is locked
 - [X] the locked toggle button is disabled if the gate is open
 
+MVP COMPLETE
+
 ## Stretch Problem
 
 This section is **optional** and not counted towards MVP. Start working on it after you're done with the main assignment.
